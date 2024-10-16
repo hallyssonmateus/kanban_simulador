@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Projetos\Framework_Csharp\TarefasKanban\TarefasKanban\obj\Debug\TarefasKanban.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Projetos\Framework_Csharp\TarefasKanban\TarefasKanban\obj\Debug\TarefasKanban.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Projetos\Framework_Csharp\TarefasKanban\TarefasKanban\bin\Debug\TarefasKanban.exe.config
+C:\Users\Acer\Desktop\Projetos\Framework_Csharp\TarefasKanban\TarefasKanban\bin\Debug\TarefasKanban.exe
+C:\Users\Acer\Desktop\Projetos\Framework_Csharp\TarefasKanban\TarefasKanban\bin\Debug\TarefasKanban.pdb
+C:\Users\Acer\Desktop\Projetos\Framework_Csharp\TarefasKanban\TarefasKanban\obj\Debug\TarefasKanban.exe
+C:\Users\Acer\Desktop\Projetos\Framework_Csharp\TarefasKanban\TarefasKanban\obj\Debug\TarefasKanban.pdb
